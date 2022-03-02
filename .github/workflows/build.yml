@@ -64,5 +64,7 @@ jobs:
             gdk/hello-glass/build/outputs
             gdk/voice-example/build/outputs
             sdk/camera-preview/build/outputs
+            sdk/ocv-face-detection/build/outputs
+            sdk/ocv-image-manipulation/build/outputs
           if-no-files-found: warn
 
